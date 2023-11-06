@@ -1,3 +1,6 @@
 springdoc:
   api-docs:
     path: /product-docs
+
+server:
+  port: 8080
